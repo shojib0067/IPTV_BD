@@ -1,0 +1,159 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Family IPTV",Sangsad TV (Low Binge BDIX)
+https://ott.bingebd.com:443/live/ngrp:sangsad_tv_all/chunklist_b1228000.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/BW.jpg" group-title="Family IPTV",BTV WORLD (Medium ICC BDIX)
+http://103.205.133.50/hls/btvworld.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/BW.jpg" group-title="Family IPTV",BTV WORLD (Low Binge BDIX)
+https://ott.bingebd.com:443/live/ngrp:btv_world_all/chunklist_b2128000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Family IPTV",ATN BANGLA ((Medium Binge BDIX)
+https://ott.bingebd.com:443/live/ngrp:atn_bangla_all/chunklist_b2128000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="Family IPTV",ATN Music (HD Ebox BDIX)
+http://103.49.168.172:8081/ebox/bd_atn_music/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="Family IPTV", CHANNEL I (HD Ebox BDIX)
+http://103.49.168.172:8081/ebox/bd_channel_i/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="Family IPTV", CHANNEL I (Medium BDIX)
+http://103.205.133.50/hls/ichannel.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="Family IPTV",EKUSHEY TV (Medium Binge BDIX)
+https://ott.bingebd.com:443/live/ngrp:ekushey_tv_all/chunklist_b2128000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/240px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Family IPTV",NTV (Medium ICC BDIX)
+http://103.205.133.50/hls/ntv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rtv_bangladesh.PNG" group-title="Family IPTV",RTV (HD ICC BDIX)
+http://103.205.133.50/hls/rtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="Family IPTV",BOISHAKHI TV (HD Ebox BDIX)
+http://103.49.168.172:8081/ebox/bd_boishakhi/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="Family IPTV",Banglavision (Medium ICC BDIX)
+http://103.205.133.50/hls/banglavision.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="Family IPTV",My TV (HD Ebox ICC BDIX)
+http://103.49.168.172:8081/ebox/bd_mytv/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424040/71120731.jpeg" group-title="Family IPTV",Mohona Tv (Medium ICC BDIX)
+http://103.205.133.50/hls/mohonatv.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="Family IPTV",Maasranga (Medium Binge BDIX)
+https://ott.bingebd.com:443/live/ngrp:maasranga_all/chunklist_b1228000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Family IPTV",Gazi Tv (HD EBOX BDIX)
+http://103.49.168.172:8081/ebox/bd_gazi/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/150px-Asian_TV_Logo.svg.png" group-title="Family IPTV",ASIAN TV (HD Ebox BDIX)
+http://103.49.168.172:8081/ebox/bd_asian_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="Family IPTV",SATV (HD Ebox BDIX)
+http://103.49.168.172:8081/ebox/bd_satv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.deepto.tv/sites/default/files/deepto_tv_logo%20Edit.png" group-title="Family IPTV",DEEPTO TV HD (Medium ICC BDIX)
+http://103.205.133.50/hls/deeptotv.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="Family IPTV",Bangla TV (Medium ICC BDIX)
+http://103.205.133.50/hls/banglatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/NT.jpg" group-title="Family IPTV",NAGORIK TV (Medium ICC BDIX)
+http://103.205.133.50/hls/nagorik.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF" group-title="Family IPTV",ATN NEWS (Medium ICC BDIX)
+http://103.205.133.50/hls/atnnews.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="Family IPTV",Bangla Vision (HD Ebox BDIX)
+http://103.49.168.172:8081/ebox/bd_banglavision/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/220px-Independent_Television_Logo.svg.png" group-title="Family IPTV",INDEPENDENT TV (HD Ebox BDIX)
+http://103.49.168.172:8081/ebox/bd_independent_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/সময়_টিভির_লোগো.svg/360px-সময়_টিভির_লোগো.svg.png" group-title="Family IPTV",Somoy News (HD Ebox BDIX)
+http://103.49.168.172:8081/ebox/bd_somoy/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="Family IPTV",Channel 24 (HD Ebox BDIX)
+http://103.49.168.172:8081/ebox/bd_channel24/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Family IPTV",Ekattor (HD Ebox BDIX)
+http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="Family IPTV",JAMUNA TV (HD Ebox BDIX)
+http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="Family IPTV",News 24 (HD Ebox BDIX)
+http://103.49.168.172:8081/ebox/bd_news24/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="Family IPTV",DBC News (Medium ICC BDIX)
+http://103.205.133.50/hls/dbcnews.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/3/39/দুরন্ত_টিভি_লোগো.jpg/170px-দুরন্ত_টিভি_লোগো.jpg" group-title="Family IPTV",Duronto TV (Low Binge BDIX)
+https://ott.bingebd.com:443/live/ngrp:duronto_tv_all/chunklist_b1228000.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate.jpg?x91288" group-title="Family IPTV",ANANDA TV ((HD Ebox BDIX)
+http://103.49.168.172:8081/ebox/bd_anando_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Family IPTV",Star Jalsha (Medium ICC BDIX)
+http://103.205.133.50/hls/chsj.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Bangla_New_Logo.jpg" group-title="Family IPTV",Zee Bangla (Medium ICC BDIX)
+http://103.205.133.50/hls/zeebangla.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Colors_Bangla_Logo.jpg" group-title="Family IPTV",Colors Bangla (Medium Ebox BDIX)
+http://103.49.168.172:8081/ebox/in_colorsbangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Family IPTV",Colors Hindi (Medium ICC BDIX)
+http://103.205.133.50/hls/chc.m3u8
+
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120774.jpg" group-title="Family IPTV",Sony Tv (HD Ebox BDIX)
+http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Family IPTV",Sony Aath (Medium ICC BDIX)
+http://103.205.133.50/hls/sony8.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQs6iuXnpTVJ_euai2qFEHcIBYkVlCkigqbmE0G_hIkq2gUe25S&usqp=CAU" group-title="Family IPTV",Enter 10 (Low Binge BDIX)
+https://ott.bingebd.com/live/ngrp:enter_ten_all/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJ3cQXhIXu67qjS_-PWKYclLVcwOGJ1VLfMuKdhHKMdaTA1xvz&usqp=CAU" group-title="Family IPTV",Akaash Aath (Medium Binge BDIX)
+https://ott.bingebd.com:443/live/ngrp:dillagi_all/chunklist_b1228000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="Family IPTV",Ruposhi Bangla (Medium ICC BDIX)
+http://103.205.133.50/hls/ruposhibangla.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Family IPTV",Zee TV (Medium Binge BDIX)
+https://ott.bingebd.com/live/ngrp:zee_tv_all/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g5AQzAK.jpg" group-title="Family IPTV",ABP Ananda (HD Working)
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPgH7dT.png" group-title="Family IPTV",Bangla Time (Medium ICC BDIX)
+http://103.205.133.50/hls/banglatime.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsqYP00JX6oXBCFzX0G7LdQ1GUt-yGdEn7dFB5V7hHYhca30g-&usqp=CAU" group-title="Family IPTV",Star Plus (UNBDIX HD)
+http://dx3.gcdn.co/hindi-STARPLUSindia/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120779.jpg" group-title="Family IPTV",Star Plus (Low ICC BDIX)
+http://103.205.133.50/hls/chsp.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Star_Bharat_Official_Logo.jpg" group-title="Family IPTV",Star Bharat (HD Working)
+http://dx3.gcdn.co/hindi-STARBHARATHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png" group-title="Family IPTV",Sony SAB (Medium Ebox BDIX)
+http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zMgCMcI.jpg?1" group-title="Family IPTV",Sony Pal (HD Working)
+http://dx3.gcdn.co/hindi-SONYPAL/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Family IPTV",Colors (HD Ebox BDIX)
+http://103.49.168.172:8081/ebox/in_colors/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6d/ColorsRisthey.png/revision/latest/scale-to-width-down/340?cb=20190307235506" group-title="Family IPTV",Colors Rishtey (Medium Working)
+http://dx3.gcdn.co/hindi-RISHTEY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png" group-title="Family IPTV",& TV (Medium Binge BDIX)
+http://103.205.133.50/hls/andtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="Family IPTV",Zee TV (Low ICC BDIX)
+http://103.205.133.50/hls/zeetv.m3u8
